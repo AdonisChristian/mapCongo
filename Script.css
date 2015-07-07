@@ -1,0 +1,51 @@
+body{
+	margin:auto;
+	border: 1px solid black;
+}
+
+#googleMap{
+	border: 1px solid black;
+	width: 710Rpx;
+	height:500px;
+	margin:auto;
+	margin-top:12px;
+	margin-left: 5px;
+}
+#title{
+	text-align: center;
+	background-color:grad;
+	width: 1335px;
+	height: 30px;
+	margin:auto;
+	margin-left:0px;
+}
+#nav{
+	font-family: monospace;
+	font-size: 20px;
+
+}
+a{
+	text-decoration: none;
+}
+#foot{
+	width: 100%;
+	height: 62px;
+	background-color: cadetblue;
+	text-align: center;
+	font-family: Consolas;
+	color: yellow;
+	
+}
+
+#banniere{
+	text-align: center;
+	width: 1354px;
+	height: 50px;
+	background-color: cadetblue;
+	font-family: Consolas;
+	color: orphans;
+	margin-top: -25px;
+}
+ul li{
+	display: inline;
+}
